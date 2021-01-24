@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Submission Github2</string>
+    <string name="v_1_0">v. 1.0</string>
+    <string name="github">GitHub</string>
+    <string name="version">Id</string>
+    <string name="github_user_app">Github User Two</string>
+    <string name="cari">Ketikan Nama Pengguna Github</string>
+    <string name="name">Syahrizal Ontowic</string>
+    <string name="html">https://github.com/syahrizalontowic</string>
+    <string name="username">syahrizalontowic</string>
+    <string name="email">rigadotru3@gmail.com</string>
+    <string name="biodata">Jangan mengeluh, Kerjakan saja</string>
+    <string name="blog">https://testerwordweb.wordpress.com/</string>
+    <string name="repos"> 23 Repository</string>
+    <string name="follows">11 Followers 12 Following</string>
+    <string name="descRepo">Dapatkah Sertifikat</string>
+    <string name="cari_pengguna">Github Users Search</string>
+    <string name="detail_pengguna">Detail User</string>
+    <string name="aplikasi_github">Aplikasi-Github-User</string>
+    <string name="java">Java</string>
+    <string name="ten">10</string>
+    <string name="update">Updated 3 days ago</string>
+    <string name="author">Syahrizal</string>
+    <string name="settings">Settings</string>
+    <string name="select_language">Select Language</string>
+</resources>
